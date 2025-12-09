@@ -9,12 +9,7 @@ const Footer: React.FC = () => {
           <p className="text-xs text-gray-600 mt-1 uppercase tracking-wider">Fire and Blood</p>
         </div>
 
-        <div className="flex gap-8">
-           {/* Fake Social Links */}
-           <a href="#" className="text-gray-500 hover:text-red-500 transition-colors">Instagram</a>
-           <a href="#" className="text-gray-500 hover:text-red-500 transition-colors">Twitter</a>
-           <a href="#" className="text-gray-500 hover:text-red-500 transition-colors">Discord</a>
-        </div>
+        {/* Социальные ссылки удалены */}
 
         <div className="text-gray-600 text-sm font-sans">
           © 2024 Valyria Design. All rights reserved.
